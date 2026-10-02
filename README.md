@@ -16,3 +16,5 @@ SELECT first_name
 *To get their salary details
 
 SELECT salary
+
+WHERE first_name 'jasmin'
